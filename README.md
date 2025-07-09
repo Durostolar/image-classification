@@ -22,8 +22,9 @@
 
 ### Results
 Learning curve plot:
-#
-[![alt text]()]
+
+<img src="https://github.com/Durostolar/image-classification/blob/master/learning_curves.png" alt="drawing" width="700"/>
+
 Accuracy on test images:
 | Class       | Accuracy (%)    |
 |-------------|-----------------|
